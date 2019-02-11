@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=http://api.themoviedb.org/3/list/103839?api_key=b77895830eecb6d478d3dd69cd8ea97e&language=en-US">
+        <script type="text/javascript">
+            window.location.href = "http://api.themoviedb.org/3/list/103839?api_key=b77895830eecb6d478d3dd69cd8ea97e&language=en-US"
+        </script>
+        <title>Page Redirection</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='http://api.themoviedb.org/3/list/103839?api_key=b77895830eecb6d478d3dd69cd8ea97e&language=en-US'>link to example</a>.
+    </body>
+</html>

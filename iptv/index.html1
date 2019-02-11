@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!-- Template by Quackit.com -->
+<!-- Images by various sources under the Creative Commons CC0 license and/or the Creative Commons Zero license. 
+Although you can use them, for a more unique website, replace these images with your own. -->
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <title>Dream IPTV</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS: You can use this stylesheet to override any Bootstrap styles and/or apply your own styles -->
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom Fonts from Google -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    
+</head>
+
+<body>
+
+	<!-- Content 1 -->
+    <section class="content">
+        <div class="container">
+            <div class="row">
+<a href="http://dream-tv.xyz/iptv/index.html" alt="display this" ><img src="http://dream-tv.xyz/iptv/images/iptv1.png"width=360 height=200/></a>
+
+                </div>
+
+                	<h2 class="section-header"><b>Best in Class IPTV</b></h2>
+                	<p class="lead text-muted"><b>Dream IPTV provides leading services in live tv.</b></p>
+                	<p class="lead text-muted"><b>99% up time.</b></p>
+                	<p class="lead text-muted"><b>Thousands of channels.</b></p>
+                	<p class="lead text-muted"><b>Video On Demand.</b></p>
+                	<p class="lead text-muted"><b>Dream IPTV allows 3 streams for each account.</b></p>
+                </div>                       
+                
+            </div>
+        </div>
+    </section>
+
+    
+
+     <section class="content content-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                	<h2 class="section-header"><b>Superior Quality</b></h2>
+                	<p class="lead text-light"><b>Dream IPTV provides High quality streams.</b></p>
+                	<p class="lead text-light"><b>Dream IPTV provides All apps needed.</b></p>                	            
+                  	<p class="lead text-light"><b>Dream IPTV is a month to month service no long term commitments.</b></p>
+                  	<p class="lead text-light"><b>
+Cancel when you want and you finish your remaining time you have paid for.</b></p>  
+                </div>    
+                <div class="col-sm-6">
+                    <img class="img-responsive img-circle center-block" src="images/iptv2.png" alt="">
+                </div>            
+                
+            </div>
+        </div>
+    </section>
+
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <img class="img-responsive img-circle center-block" src="images/iptv3.png" alt="">
+                </div>
+                <div class="col-sm-6">
+                	<h2 class="section-header"><b>Prices</b></h2>
+                	<p class="lead text-muted"><b>$10 usd a month.</b></p>
+                	<p class="lead text-muted"><b>3 streams at a time per account</b></p>
+                	<p class="lead text-muted"><b>Thousands of channels.</b></p>
+                	<p class="lead text-muted"><b>Video On Demand.</b></p>
+                	<p class="lead text-muted"><b>Use on almost ANY device.</b></p>
+                	<p class="lead text-muted"><b>To order service use green contact button.</b></p>
+                </div>                       
+                
+            </div>
+        </div>
+    </section>
+        	</div>
+        </div>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c57ed1c6cb1ff3c14cafeb0/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+    <!-- jQuery -->
+    <script src="js/jquery-1.11.3.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    
+    <!-- Custom Javascript -->
+    <script src="js/custom.js"></script>
+
+</body>
+
+</html>
